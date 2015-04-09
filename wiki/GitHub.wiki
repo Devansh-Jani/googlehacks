@@ -1,3 +1,5 @@
 =[https://github.com/octalmage/googlehacks Click here!]=
 
 Google Hacks 2.0 is coming soon, please star the new project to get updates! 
+
+https://github.com/octalmage/googlehacks
